@@ -149,11 +149,7 @@ npm start
 
 ## 📷 Screenshots  
 
-**📖 Book List Page**  
-![Book List UI](https://via.placeholder.com/600x300?text=Book+List+UI)  
-
-**📝 Add Review Page**  
-![Review UI](https://via.placeholder.com/600x300?text=Add+Review+UI)  
+![Screenshot 2025-03-05 220144](https://github.com/user-attachments/assets/42151d7d-d410-4187-a8e2-fdc82d6a6a67)
 
 ---
 
@@ -176,8 +172,4 @@ Contributions are welcome! Follow these steps:
 3. **Commit** your changes (`git commit -m "Added new feature"`)  
 4. **Push** and create a **Pull Request**  
 
----
-
-## 🔗 Connect with Me  
-💬 **GitHub**: [your-username](https://github.com/your-username)  
-💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)  
+--- 
